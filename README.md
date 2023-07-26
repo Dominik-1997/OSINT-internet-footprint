@@ -29,9 +29,10 @@
 </ul> 
  <br>     
 <p>Information that can be deducted:
+<ul>
 <li>Facebook</li>
 	<ul>Although you can't find my birthdate in my personal information, you can check when people were wishing me happy birthday for my 18th birthday so one could get my date of birth from there </ul>
-
+</ul>
 
 
 <br>

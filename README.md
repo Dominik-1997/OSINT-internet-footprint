@@ -30,7 +30,7 @@
 <p>To analyse more than can be done quickly by hand i used Spiderfoot
 <br>
 <p>I hosted an instance of a Spiderfoot on my vm using the command:
-<p> > sudo spiderfoot -l 127.0.0.1:5000
+> sudo spiderfoot -l 127.0.0.1:5000
 <br>
 <p>Analysis conducted using Spiderfoot on Kali linux:
 <br>

@@ -4,17 +4,30 @@
 
 
 <p>The only information i personally publicised about myself is:
- <p> Facebook (accesible for friends only)
-	<p>    My first and second name
-	<p>    My home city
-  <p>    Two photos from ~10 years ago
- <br>     
- <p> Linkedin (private)
-<p>      Two universiteis I attended (Although my profile is private, google search still displays my university)
-<p>  Github
- <p> 	My Github profile name contains my birth year (I do not share my repositories anywhere except for the CVs)
-<p>   My email address
-<p>   	My email address also contains my birth year
+
+<ul>
+  <li>Facebook (accesible for friends only)</li>
+	<ul>
+      		<li>My first and second name</li>
+      		<li>My home city</li>
+		<li>Two photos from ~10 years ago</li>
+    	</ul>
+  <li>Linkedin (private)</li>
+	<ul>
+      		<li>Two universiteis I attended (Although my profile is private, google search still displays my university)</li>
+    	</ul>
+  <li>Github</li>
+    <ul>
+      <li>My Github profile name contains my birth year (I do not share my repositories anywhere except for the CVs)</li>
+    </ul>
+  </li>
+    <li>My email address</li>
+    <ul>
+      <li>My email address also contains my birth year/li>
+    </ul>
+  </li>
+</ul> 
+
  <br>     
 <p>Information that can be deducted:
 <p>  Facebook
@@ -30,7 +43,7 @@
 <p>To analyse more than can be done quickly by hand i used Spiderfoot
 <br>
 <p>I hosted an instance of a Spiderfoot on my vm using the command:
-> sudo spiderfoot -l 127.0.0.1:5000
+sudo spiderfoot -l 127.0.0.1:5000
 <br>
 <p>Analysis conducted using Spiderfoot on Kali linux:
 <br>

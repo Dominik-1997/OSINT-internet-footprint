@@ -11,7 +11,11 @@ The only information i personally publicised about myself is:
       
   Linkedin (private)
       Two universiteis I attended (Although my profile is private, google search still displays my university)
-
+  Github
+  	My Github profile name contains my birth year (I do not share my repositories anywhere except for the CVs)
+   My email address
+   	My email address also contains my birth year
+      
 Information that can be deducted:
   Facebook
       Although you can't find my birthdate in my personal information, you can check when people were wishing me happy birthday for my 18th birthday so one could get my date of birth from there 

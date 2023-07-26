@@ -23,15 +23,15 @@
   </li>
     <li>My email address</li>
     <ul>
-      <li>My email address also contains my birth year/li>
+      <li>My email address also contains my birth year</li>
     </ul>
   </li>
 </ul> 
-
  <br>     
 <p>Information that can be deducted:
-<p>  Facebook
- <p>     Although you can't find my birthdate in my personal information, you can check when people were wishing me happy birthday for my 18th birthday so one could get my date of birth from there 
+<li>Facebook</li>
+	<ul>Although you can't find my birthdate in my personal information, you can check when people were wishing me happy birthday for my 18th birthday so one could get my date of birth from there </ul>
+
 
 
 <br>
